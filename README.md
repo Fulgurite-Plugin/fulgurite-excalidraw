@@ -1,6 +1,6 @@
 # Excalidraw
 
-Drawings in [Fulgurite](https://github.com/Fulgurite-Plugin) notes with [Excalidraw](https://github.com/excalidraw/excalidraw)
+Drawings in [fulgurite](https://github.com/fulgurite-plugin) notes with [Excalidraw](https://github.com/excalidraw/excalidraw)
 itself, like Obsidian's Excalidraw plugin: shapes, arrows, lines, freehand and text, hand-drawn.
 
 - **Insert drawing** (⌘P) puts a drawing on the line and opens it full size. **Done** writes it into the note.
@@ -18,4 +18,4 @@ Bundles Excalidraw and React (MIT) and Excalidraw's fonts (SIL Open Font License
 
 `npm run build` bundles `src/page.tsx` (Excalidraw, React and the fonts in one HTML page, which the app shows in its web
 view) into `main.js` (`src/main.ts`, which registers that page for ```` ```excalidraw ```` blocks). See
-[api](https://github.com/Fulgurite-Plugin/fulgurite-api).
+[api](https://github.com/fulgurite-plugin/fulgurite-api).
