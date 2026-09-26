@@ -1,7 +1,7 @@
 {
   "name": "fulgurite.excalidraw",
   "displayName": "Excalidraw",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Draw shapes and arrows in your notes with Excalidraw, like Obsidian's Excalidraw plugin",
   "repository": "https://github.com/fulgurite-plugin/fulgurite-excalidraw",
   "license": "MIT",
